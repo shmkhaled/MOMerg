@@ -188,7 +188,11 @@
             <artifactId>yandex-translate-api-scala_2.11</artifactId>
             <version>1.0.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>xml-apis</groupId>
+            <artifactId>xml-apis</artifactId>
+            <version>1.4.01</version>
+        </dependency>
 
     </dependencies>
 
